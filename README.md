@@ -1,2 +1,2 @@
-# C-programs
-Repository full of C-programs.
+# C
+Repository full of C programs.
